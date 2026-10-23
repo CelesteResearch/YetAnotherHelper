@@ -1,0 +1,18 @@
+{
+  "id": "YetAnotherHelper",
+  "archive": {
+    "sha256": "73d64e1b3457e2461d3368a01de9f5f31a58bf24e130f3e35ec7280b24814c2d",
+    "path": "YetAnotherHelper.zip",
+    "downloadUrl": "https://gamebanana.com/mmdl/1182393",
+    "fileId": 1182393
+  },
+  "license": "MIT",
+  "version": "1.2.5",
+  "upstream": "https://gamebanana.com/mods/53712",
+  "schemaVersion": 1,
+  "originalAssembly": {
+    "sha256": "f48e16a568edf43913beac0684bd26b7dc12d45be4011a8b214e05db86b78aea",
+    "entry": "YetAnotherHelper/bin/Debug/net452/YetAnotherHelper.dll"
+  },
+  "mode": "source"
+}
